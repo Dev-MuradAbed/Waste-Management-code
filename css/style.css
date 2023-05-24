@@ -43,6 +43,20 @@ body{
     background-color: #e6edff;
     color: #303054;
 }
+.btn1.donate-account {
+    margin-top: 5px;
+    font-size: 1rem;
+    font-weight: 400;
+    background-color: #303054;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none !important;
+    transition: all 0.5s;
+}
+.btn1.donate-account:hover {
+    background-color: #e6edff;
+    color: #303054;}
 
 /* Header */
 header{
