@@ -20,7 +20,7 @@ document.querySelector('.pop-video span').onclick = () => {
   // Add event listener to the donate PayPal button
   document.querySelectorAll(".donate-paypal").forEach(function(button) {
     button.addEventListener("click", function() {
-      window.location.href = "https://www.paypal.com/donate/?hosted_button_id=828SQZ8HAPX3C";
+      window.location.href = "https://www.paypal.com/donate/?hosted_button_id=5UQS998847XK4";
     });
   });
 
